@@ -15,10 +15,10 @@ Luis Manuel López Cano
 |...||||
 
 ## Software a utilizar
-|Software|Versión|
-|--|--|
-|Thonny|4.1.6|<img width="100" src="[[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://w7.pngwing.com/pngs/387/24/png-transparent-arduino-hd-logo.png](https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png)" />|
-|Arduino|1.8.18|<img width="100" src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://w7.pngwing.com/pngs/387/24/png-transparent-arduino-hd-logo.png)" />|
+|Software|Versión|Logo|
+|--|--|--|
+|Thonny|4.1.6|<img width="100" src="https://static.macupdate.com/products/61594/m/thonny-logo.png?v=1617899142" />|
+|Arduino|1.8.18|<img width="100" src="https://w7.pngwing.com/pngs/387/24/png-transparent-arduino-hd-logo.png" />|
 |...||
 
 ## SEGUNDA UNIDAD.
