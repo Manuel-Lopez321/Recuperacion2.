@@ -21,7 +21,7 @@ Luis Manuel López Cano
 |Arduino|1.8.18|<img width="100" src="https://w7.pngwing.com/pngs/387/24/png-transparent-arduino-hd-logo.png" />|
 |...||
 
-##Videos.
+## Videos.
 |N° de video|Tipo de video|Materiales|Diagrama|Enlace|
 |--|--|--|--|--|
 |Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
@@ -31,6 +31,6 @@ Luis Manuel López Cano
 |Video 5.|Video con esamblaje fisico|Esp32, protoboard, sensor ultrasonico, nodered y cables macho hembra|<img width="100" src="https://i.postimg.cc/h4Yvcp5H/Captura-de-pantalla-2025-01-20-150758.png" />|https://drive.google.com/file/d/1tFftcYr57es95SMhNNfkKLswGG6QH5oq/view?usp=drive_link|
 |Video 6.|Video con esamblaje fisico|Esp32, protoboard, pantalla oled, nodered y cables macho hembra|<img width="100" src="https://i.postimg.cc/zDyWCbZY/Captura-de-pantalla-2025-01-20-151049.png" />|https://drive.google.com/file/d/1ACJmo5RQ-PRNpo9ET_Wgrb-KSmRR6ipx/view?usp=drive_link|
 |Video 7.|Video con esamblaje fisico|Esp32, protoboard, Potenciometro, nodered y cables macho hembra|<img width="100" src="https://i.postimg.cc/0NtMmxVN/Captura-de-pantalla-2025-01-20-151350.png" />|https://drive.google.com/file/d/1NxeSZqzvSJwRnh5fyPBCq4dqFIYm7R2P/view?usp=drive_link|
-
-## Ejercicios en clase
-https://drive.google.com/drive/folders/12-v4fbEvSazDKPUHrvDUjfakoBMOhAsR?usp=drive_link
+|Video 8.|Video con esamblaje fisico|Esp32, protoboard, luces led, resistencias, nodered y cables macho hembra|<img width="100" src="https://i.postimg.cc/HWMnWQ1n/Captura-de-pantalla-2025-01-20-152247.png" />|https://drive.google.com/file/d/1rh-EH68nPB_V5uFC-TojQQFxcPgt3cW6/view?usp=drive_link|
+|Video 9.|Video con esamblaje fisico|Esp32, protoboard, potenciometro, tira led, nodered y cables macho hembra|<img width="100" src="https://i.postimg.cc/0NtMmxVN/Captura-de-pantalla-2025-01-20-151350.png" />|https://drive.google.com/file/d/198OiUfa1I2dbR3eVtIA1tTX6LNFMiQ5k/view?usp=drive_link|
+|Video 10.|Video con esamblaje fisico|Esp32, protoboard, matriz, nodered y cables macho hembra|<img width="100" src="https://i.postimg.cc/VNXnb23r/Captura-de-pantalla-2025-01-20-145255.png" />|https://drive.google.com/file/d/1LBifoa7Lms2X-Dtk6htEvigRT8ZWCM8j/view?usp=drive_link|
