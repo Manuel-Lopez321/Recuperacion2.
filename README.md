@@ -17,14 +17,9 @@ Luis Manuel López Cano
 ## Software a utilizar
 |Software|Versión|Logo|
 |--|--|--|
-|Thonny|4.1.6|<img width="100" src="https://static.macupdate.com/products/61594/m/thonny-logo.png?v=1617899142" />|
+|Thonny|4.1.6|<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Thonny_logo.png/220px-Thonny_logo.png" />|
 |Arduino|1.8.18|<img width="100" src="https://w7.pngwing.com/pngs/387/24/png-transparent-arduino-hd-logo.png" />|
 |...||
-
-## SEGUNDA UNIDAD.
-
-## Videos para la evaluacion de la segunda unidad
-https://drive.google.com/drive/folders/12-v4fbEvSazDKPUHrvDUjfakoBMOhAsR?usp=drive_link
 
 ## Ejercicios en clase
 https://drive.google.com/drive/folders/12-v4fbEvSazDKPUHrvDUjfakoBMOhAsR?usp=drive_link
