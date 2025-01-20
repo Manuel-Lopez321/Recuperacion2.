@@ -25,6 +25,13 @@ Luis Manuel López Cano
 |N° de video|Tipo de video|Materiales|Diagrama|Enlace|
 |--|--|--|--|--|
 |Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://i.ibb.co/7CV8qwM/Captura-de-pantalla-2025-01-20-143645.png" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
 
 
 
