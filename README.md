@@ -21,5 +21,13 @@ Luis Manuel López Cano
 |Arduino|1.8.18|<img width="100" src="https://w7.pngwing.com/pngs/387/24/png-transparent-arduino-hd-logo.png" />|
 |...||
 
+##Videos.
+|N° de video|Tipo de video|Materiales|Diagrama|Enlace|
+|--|--|--|--|--|
+|Video 1.|Video con esamblaje fisico|Esp32, protoboard, motor a pasos y cables macho hembra|<img width="100" src="https://ibb.co/9g2z7FK" />|https://drive.google.com/file/d/12aZ48JSgVs7JQDLGlziiVlWM6TV2KKsi/view?usp=drive_link|
+
+
+
+
 ## Ejercicios en clase
 https://drive.google.com/drive/folders/12-v4fbEvSazDKPUHrvDUjfakoBMOhAsR?usp=drive_link
