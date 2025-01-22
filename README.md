@@ -14,6 +14,9 @@ Luis Manuel López Cano
 |Motor a pasos|<img width="100" src="https://uelectronics.com/wp-content/uploads/2017/08/AR0130-Motor-a-pasos-28BYJ-48-V1.jpg" />|2|120.00|
 |...||||
 
+## Simulación de Wokwi.
+https://wokwi.com/projects/412573310183348225
+
 ## Software a utilizar
 |Software|Versión|Logo|
 |--|--|--|
